@@ -1,0 +1,17 @@
+{
+  "name": "gerador-de-senhas",
+  "version": "1.0.0",
+  "description": "Um projeto de gerador de senhas",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+    "bild": "electron-packager ."
+  },
+  "author": "Lumazini's code",
+  "license": "MIT",
+  
+  "devDependencies": {
+    "electron": "^29.1.6"
+  }
+
+}
